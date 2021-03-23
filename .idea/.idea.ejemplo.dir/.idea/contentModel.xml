@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_.19.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Controllers" t="Include">
+        <e p="DTOs" t="Include">
+          <e p="HotelDTO.cs" t="Include" />
+        </e>
+        <e p="DirectionController.cs" t="Include" />
+        <e p="HotelController.cs" t="Include" />
+      </e>
+      <e p="Migrations" t="Include">
+        <e p="20210312022951_Hotel.Designer.cs" t="Include" />
+        <e p="20210312022951_Hotel.cs" t="Include" />
+        <e p="20210315033113_Change.Designer.cs" t="Include" />
+        <e p="20210315033113_Change.cs" t="Include" />
+        <e p="20210320065950_Changes.Designer.cs" t="Include" />
+        <e p="20210320065950_Changes.cs" t="Include" />
+        <e p="HotelContextModelSnapshot.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="Edificio.cs" t="Include" />
+        <e p="Hotel.cs" t="Include" />
+        <e p="HotelContext.cs" t="Include" />
+        <e p="Pago.cs" t="Include" />
+        <e p="Pais.cs" t="Include" />
+        <e p="PaisDTO.cs" t="Include" />
+        <e p="Persona.cs" t="Include" />
+        <e p="Provincia.cs" t="Include" />
+        <e p="Region.cs" t="Include" />
+        <e p="Reservacion.cs" t="Include" />
+        <e p="Rol.cs" t="Include" />
+        <e p="TipoPlan.cs" t="Include" />
+      </e>
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="appsettings.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="ejemplo.csproj" t="IncludeRecursive" />
+      <e p="mono_crash.mem.26969.1.blob" t="Include" />
+      <e p="mono_crash.mem.2833.1.blob" t="Include" />
+      <e p="mono_crash.mem.32675.1.blob" t="Include" />
+      <e p="mono_crash.mem.604.1.blob" t="Include" />
+      <e p="mono_crash.mem.895.1.blob" t="Include" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="net5.0" t="Include">
+            <e p="ejemplo.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
